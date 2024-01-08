@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 ![](https://views.whatilearened.today/views/github/xring/xring.svg)
 
 - I'm:
 ```
