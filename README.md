@@ -1,4 +1,4 @@
-### Hi there 👋 ![](https://views.whatilearened.today/views/github/xring/xring.svg)
+### Hi there 👋 ![](https://views.whatilearened.today/views/github/xring/xring.svg) ![](https://wakatime.com/badge/user/b646b4dd-4fb2-4101-8552-8324c19595ce.svg)
 
 - I'm xring.
 
